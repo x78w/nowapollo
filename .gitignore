@@ -1,0 +1,27 @@
+.DS_Store
+
+# package managements
+node_modules
+bower_components
+jspm_packages
+
+# compiled files
+**/build
+**/built
+**/dest
+**/dist
+
+# all log files
+*.log
+npm-debug.log.*
+*.brackets
+*.vscode
+*.cache
+
+# all temp files
+*.swo
+*.swp
+*.ream
+
+# nginx config file
+*.pem
